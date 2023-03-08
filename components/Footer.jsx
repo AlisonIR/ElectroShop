@@ -5,12 +5,12 @@ import { RiWhatsappFill } from "react-icons/ri";
 const Footer = () => {
   return (
     <div className='footer-container'>
-     <p>2023 Estuches Roa All rights reserved</p>
+     <p>2023 ElectroShop All rights reserved</p>
      <p className='icons'>
-      <a href="https://www.instagram.com/estuches_roa/?igshid=YmMyMTA2M2Y%3D">
+      <a>
       <AiFillInstagram/>
       </a>
-      <a href='https://wa.me/c/5493624205882'>
+      <a>
       <RiWhatsappFill/>
       </a>
      </p>

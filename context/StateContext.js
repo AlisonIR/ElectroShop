@@ -1,4 +1,4 @@
-import product from "estuchesroasanity/schemas/product";
+import product from "electrosanity/schemas/product";
 import React, {createContext, useContext, useState, useEffect} from "react";
 import { toast } from 'react-hot-toast';
 
